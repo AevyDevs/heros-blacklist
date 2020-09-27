@@ -1,0 +1,24 @@
+mysql:
+  table: blacklist
+language:
+  addato:
+    ita: "%player% e' stato blacklistato da %exec% per %reason%"
+    eng: "%player% got blacklisted by %exec% for %reason%"
+  rimosso:
+    ita: "%player% e' stato unblacklistato"
+    eng: "%player% has been unblacklisted"
+  addato-errore:
+    ita: "%player% e' gia' blacklistato"
+    eng: "%player% is already blacklisted"
+  blacklist-kick:
+    ita: "&cSei blacklistato!\n\n&7Puoi prendere l'unblacklist nel nostro store: &chttps://buy.herospvp.net"
+    eng: "&cYou're blacklisted!\n\n&7You can get the unblacklist in our store: &chttps://buy.herospvp.net"
+  lista:
+    ita: "Nella lista sono presenti &c%tot% &fplayers:"
+    eng: "In the list there are &c%tot% &fplayers:"
+  check-presente:
+    ita: "%player% e' blacklisto per %reason%"
+    eng: "%player% is blacklisted for %reason%"
+  check-non-presente:
+    ita: "%player% non e' blacklistato"
+    eng: "%player% is not blacklisted"

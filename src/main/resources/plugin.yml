@@ -1,0 +1,10 @@
+name: Blacklist
+author: Gud
+version: Alpha-RC-1
+main: net.herospvp.blacklist.Main
+load: POSTWORLD
+depend:
+  - HerosCore
+commands:
+  blacklist:
+    aliases: [bl]
